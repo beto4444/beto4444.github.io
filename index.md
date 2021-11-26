@@ -1,4 +1,5 @@
-#Strona użytkownika Beto4444
+Strona użytkownika Beto4444
+-------
 
 Bio: Student AGH 1. roku. Pochodzę z Grójca, małego miasteczka pod Warszawą.
 Moje zainteresowania to:
@@ -9,11 +10,16 @@ Moje zainteresowania to:
 5. matematyka.
 W wolnym czasie lubię pływać, grać na pianinie, a także układać Puzzle :)
 
-##MOJE PROKETY:
+MOJE PROJEKTY:
+-------
 
-###Gra zręcznościowa
+Gra zręcznościowa
+-------
+
 Projekt realizowany w zespole SLOT.
 Projekt gry zręcznościowej w klimatach sci-fi realizowany w ramach projektu na przedmiot Narzędzia Informatyczne w ramach studiów.
 
-###Adventures of Globbie
+Adventures of Globbie
+-------
+
 Samodzielnie tworzona gra platformowa w stylu pixel-art. Data wydania: w przyszłości.
